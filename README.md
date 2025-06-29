@@ -1,11 +1,16 @@
-# Temp-Cleaner
+# Temp-Cleaner V1.0
 🇹🇷 Türkçe
 
 SİSTEMİN AMACI NEDİR?
-%temp% ve temp klasörlerini temizlemenize yardımcı olur. İsterseniz başka bir klasörde seçebilirsiniz :D
+%temp% ve temp klasörlerini temizlemenize yardımcı olur. İsterseniz başka bir klasörde seçebilirsiniz. :D 
+
+Not: Temizlediği Klasör yolu: C:\Windows\Temp ve C:\Users\(USERNAME)\AppData\Local\Temp
 
 🇬🇧 English
-It helps you to clean %temp% and temp folders. You can choose another folder if you want :D
+
+It helps you to clean %temp% and temp folders. You can choose another folder if you want. :D
+
+Note: Cleaned Folder path: C:\Windows\Temp and C:\Users\(USERNAME)\AppData\Local\Temp
 
 İletişim(Communication):
 bluge1
