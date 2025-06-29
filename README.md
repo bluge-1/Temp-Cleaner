@@ -2,6 +2,7 @@
 **🇹🇷 TÜRKÇE**
 
 SİSTEMİN AMACI NEDİR?
+
 **%temp% ve temp klasörlerini temizlemenize yardımcı olur. İsterseniz başka bir klasörde seçebilirsiniz. :D**
 
 *Not: Temizlediği Klasör yolu: C:\Windows\Temp ve C:\Users\(USERNAME)\AppData\Local\Temp*
@@ -9,11 +10,12 @@ SİSTEMİN AMACI NEDİR?
 **🇬🇧 ENGLİSH**
 
 WHAT IS THE PURPOSE OF THE SYSTEM?
+
 **It helps you to clean %temp% and temp folders. You can choose another folder if you want. :D**
 
 *Note: Cleaned Folder path: C:\Windows\Temp and C:\Users\(USERNAME)\AppData\Local\Temp*
 
-# İletişim(Communication):
+*İletişim(Communication):*
 **bluge1**
 
 
