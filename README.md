@@ -9,13 +9,14 @@ SİSTEMİN AMACI NEDİR?
 
 **🇬🇧 ENGLİSH**
 
-WHAT IS THE PURPOSE OF THE SYSTEM?
+*WHAT IS THE PURPOSE OF THE SYSTEM?*
 
 **It helps you to clean %temp% and temp folders. You can choose another folder if you want. :D**
 
 *Note: Cleaned Folder path: C:\Windows\Temp and C:\Users\(USERNAME)\AppData\Local\Temp*
-
+#
 *İletişim(Communication):*
+
 **bluge1**
 
 
