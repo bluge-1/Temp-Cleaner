@@ -17,7 +17,7 @@
 #
 *İletişim(Communication):*
 
-** discord: bluge1**
+**discord: bluge1**
 #
 
 ![image](https://github.com/user-attachments/assets/33e94067-3cd6-4a7f-8ad1-68cdaf6e2580)
