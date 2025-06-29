@@ -6,7 +6,7 @@
 **%temp% ve temp klasörlerini temizlemenize yardımcı olur. İsterseniz başka bir klasörde seçebilirsiniz. :D**
 
 *Not: Temizlediği Klasör yolu: C:\Windows\Temp ve C:\Users\(USERNAME)\AppData\Local\Temp*
-
+#
 **🇬🇧 ENGLİSH**
 
 *WHAT IS THE PURPOSE OF THE SYSTEM?*
