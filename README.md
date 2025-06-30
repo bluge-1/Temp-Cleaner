@@ -15,10 +15,6 @@
 
 *Note: Cleaned Folder path: C:\Windows\Temp and C:\Users\(USERNAME)\AppData\Local\Temp*
 #
-*İletişim(Communication):*
-
-**discord: bluge1**
-#
 
 ![image](https://github.com/user-attachments/assets/33e94067-3cd6-4a7f-8ad1-68cdaf6e2580)
 ![image](https://github.com/user-attachments/assets/5d01c285-097d-40e1-8c0d-62849d7fa042)
